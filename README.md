@@ -1,0 +1,1 @@
+More details about shell
